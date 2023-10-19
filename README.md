@@ -12,3 +12,5 @@ leetcode&nbsp;&nbsp;&nbsp;80&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Remove Duplicates fr
 leetcode&nbsp;&nbsp;&nbsp;169&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Majority Element**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;easy
 
 leetcode&nbsp;&nbsp;&nbsp;189&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Rotate Array**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
+
+leetcode&nbsp;&nbsp;&nbsp;129&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**best time buy and sell stock**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
