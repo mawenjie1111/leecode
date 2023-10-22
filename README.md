@@ -13,4 +13,8 @@ leetcode&nbsp;&nbsp;&nbsp;169&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Majority Element**&
 
 leetcode&nbsp;&nbsp;&nbsp;189&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Rotate Array**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
 
-leetcode&nbsp;&nbsp;&nbsp;129&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**best time buy and sell stock**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
+leetcode&nbsp;&nbsp;&nbsp;121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**best time buy and sell stock**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;easy
+
+leetcode&nbsp;&nbsp;&nbsp;122&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**best time buy and sell stock II**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
+
+leetcode&nbsp;&nbsp;&nbsp;55&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**jump game**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
