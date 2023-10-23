@@ -18,3 +18,4 @@ leetcode&nbsp;&nbsp;&nbsp;121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**best time buy and s
 leetcode&nbsp;&nbsp;&nbsp;122&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**best time buy and sell stock II**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
 
 leetcode&nbsp;&nbsp;&nbsp;55&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**jump game**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
+leetcode&nbsp;&nbsp;&nbsp;45&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**jump game II**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
