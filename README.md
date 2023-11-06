@@ -36,3 +36,5 @@ leetcode&nbsp;&nbsp;&nbsp;12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Integer to Roman**&n
 leetcode&nbsp;&nbsp;&nbsp;58&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Length of Last Word**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;easy
 
 leetcode&nbsp;&nbsp;&nbsp;135&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Candy**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hard
+
+leetcode&nbsp;&nbsp;&nbsp;42&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Rain**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hard
