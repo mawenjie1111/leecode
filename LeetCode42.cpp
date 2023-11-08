@@ -14,7 +14,6 @@ int trap(vector<int>& height) {
             right_max=height[i];
             for (int j = i+1; j < len; j++)
             {
-    
                 if(height[j]>right_max)
                 {
                     right_max=height[j];
