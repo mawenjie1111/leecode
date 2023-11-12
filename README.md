@@ -42,3 +42,5 @@ leetcode&nbsp;&nbsp;&nbsp;42&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Rain**&nbsp;&nbsp;&n
 leetcode&nbsp;&nbsp;&nbsp;42&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Longest Common Prefix**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;easy
 
 leetcode&nbsp;&nbsp;&nbsp;151&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**reverse words**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;easy
+
+leetcode&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**convert**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
