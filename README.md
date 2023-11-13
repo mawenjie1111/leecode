@@ -43,4 +43,6 @@ leetcode&nbsp;&nbsp;&nbsp;42&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Longest Common Prefi
 
 leetcode&nbsp;&nbsp;&nbsp;151&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**reverse words**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;easy
 
-leetcode&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**convert**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid
+leetcode&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**convert**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid 
+
+leetcode&nbsp;&nbsp;&nbsp;28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Find the Index of the First Occurrence in a String**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; easy KMP
