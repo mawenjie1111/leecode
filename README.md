@@ -46,3 +46,5 @@ leetcode&nbsp;&nbsp;&nbsp;151&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**reverse words**&nbs
 leetcode&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**convert**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid 
 
 leetcode&nbsp;&nbsp;&nbsp;28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Find the Index of the First Occurrence in a String**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; easy KMP
+
+leetcode&nbsp;&nbsp;&nbsp;68&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Text Justification**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hard Meaningless
